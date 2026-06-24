@@ -1,0 +1,6 @@
+2026-06-24 10:23:43,580 - model_building - DEBUG - Parameters retrieved from params.yaml
+2026-06-24 10:23:43,587 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 36)
+2026-06-24 10:23:43,588 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 22, 'random_state': 2}
+2026-06-24 10:23:43,588 - model_building - DEBUG - Model training started with 4152 samples
+2026-06-24 10:23:43,636 - model_building - DEBUG - Model training completed
+2026-06-24 10:23:43,638 - model_building - DEBUG - Model saved to models/model.pkl
